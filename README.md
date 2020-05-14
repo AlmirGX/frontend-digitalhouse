@@ -1,7 +1,7 @@
-# Nome do Projeto
+# Natural Foods
 
 ## Descrição
-Descrição do projeto
+E-Commerce fictício destinado a agricultores e supermercados para a venda e compra de produtos orgânicos e sem agrotóxicos. 
 
 ### Curso
 Projeto final desenvolvido para o curso de Front-End Coding para obtenção do certificado de conclusão do curso.
