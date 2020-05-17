@@ -1,0 +1,67 @@
+@media only screen and (max-width: 991px){
+    body{
+        height: 100%;
+    }
+
+    #verde{
+        position: fixed;
+    }
+    
+    #navbarSupportedContent{
+        justify-content: unset;
+    }
+    
+    #navbarSupportedContent form{
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    #navbarSupportedContent form input{
+        width: 100%;
+        margin: 0;
+    }
+
+    #navbarSupportedContent form button{
+        display: none;
+    }
+
+    #adicionar{
+        text-decoration: none;
+        color: white;
+        background-color: rgb(42, 151, 42);
+        width: 100%;
+        text-align: center;
+        padding: 1vh 0;
+        border-radius: 8px;
+    }
+
+    #adicionar:hover{
+        background-color: rgb(31, 117, 31);
+    }
+
+    #fundo{
+        position: absolute;
+        overflow: auto;
+        margin-top: 0vh;
+    }
+
+    h5{
+        font-size: 15px;
+    }
+
+    .card img{
+        width: 25vw;
+        margin: 1vh 4vw;
+        display: block;
+        text-align: center;
+    }
+
+    footer{
+        background: rgba(0, 0, 0, 0.5);
+        font-size: 1em;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+}
