@@ -24,5 +24,8 @@ Para o desenvolvimento desse projeto foi utilizado as seguintes tecnologias:
 - [Jonathas Moreira](https://github.com/JonathasLopes)
 - [Rafael Simionato](https://github.com/rafaasimi)
 
+### Layout
+![Layout Natural Foods](https://raw.githubusercontent.com/rafaasimi/frontend-digitalhouse/master/img/naturalfoods.png)
+
 
 
